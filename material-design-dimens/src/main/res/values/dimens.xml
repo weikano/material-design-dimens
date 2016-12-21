@@ -136,4 +136,26 @@
     <dimen name="material_component_text_full_width_single_line_text_field_text_top_and_bottom_padding">20dp</dimen>
     <!-- Toolbars -->
     <!-- Tooltips -->
+    <!-- Elevation -->
+    <dimen name="material_component_elevation_dialog">24dp</dimen>
+    <dimen name="material_component_elevation_picker">24dp</dimen>
+    <dimen name="material_component_elevation_nav_drawer">16dp</dimen>
+    <dimen name="material_component_elevation_right_drawer">16dp</dimen>
+    <dimen name="material_component_elevation_modal_bottom_sheet">16dp</dimen>
+    <dimen name="material_component_elevation_fab_pressed">12dp</dimen>
+    <!-- each sub menu +1 dp -->
+    <dimen name="material_component_elevation_sub_menu">9dp</dimen>
+    <dimen name="material_component_elevation_bottom_navigation">8dp</dimen>
+    <dimen name="material_component_elevation_menu">8dp</dimen>
+    <dimen name="material_component_elevation_card_pickup">8dp</dimen>
+    <dimen name="material_component_elevation_raised_button_press">8dp</dimen>
+    <dimen name="material_component_elevation_fab">6dp</dimen>
+    <dimen name="material_component_elevation_snackbar">6dp</dimen>
+    <dimen name="material_component_elevation_appbar">4dp</dimen>
+    <dimen name="material_component_elevation_refresh_indicator">3dp</dimen>
+    <dimen name="material_component_elevation_search_entry_scrolled">3dp</dimen>
+    <dimen name="material_component_elevation_card">2dp</dimen>
+    <dimen name="material_component_elevation_raised_button">2dp</dimen>
+    <dimen name="material_component_elevation_search_entry">2dp</dimen>
+    <dimen name="material_component_elevation_switch">1dp</dimen>
 </resources>
